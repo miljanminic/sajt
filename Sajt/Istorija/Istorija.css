@@ -1,0 +1,58 @@
+.naslov {
+  color: red;
+}
+body {
+  background-color: AliceBlue;
+}
+.naslov {
+  font-size: 60px;
+  text-shadow: 1px 1px gray;
+}
+
+.desnon {
+  border-radius: 7px;
+  float: left;
+}
+.levo {
+  float: right;
+  border-radius: 7px;
+}
+.naslov {
+  padding-left: 500px;
+}
+.opis {
+  padding-left: 470px;
+  font-size: 30px;
+}
+.sredina {
+  float: center;
+  border-radius: 7px;
+  padding-left: 50px;
+}
+.linija {
+  background-color: #dcdcdc;
+  overflow: hidden;
+}
+.linija a {
+  float: left;
+  color: #6495ed;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.linija a:hover {
+  background-color: black;
+  color: #f0f8ff;
+}
+.linije a:active {
+  background-color: white;
+  color: #f0f8ff;
+}
+.text {
+  width: 900px;
+  height: 500px;
+  text-align: left;
+  padding-left: 50px;
+  font-size: 25px;
+}
